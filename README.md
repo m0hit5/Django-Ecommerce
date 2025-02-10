@@ -1,5 +1,3 @@
-#Image
-
 ![Alt text](https://github.com/m0hit5/Django-Ecommerce/blob/main/media/greatkart-screenshot.jpg)
 
 # About The Project
